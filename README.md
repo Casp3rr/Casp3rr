@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Casp3rr
-- 👀 I’m interested in coding and new technologies  ...
-- 🌱 I’m currently learning and improving my front-end development skills ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me elvis.es007@gmail.com...
+Hi there! I’m @Casp3rr. 
+I’m passionate about coding and staying updated with the latest technologies. 
+I’m currently honing my front-end development skills. 
+I’m eager to collaborate with others on exciting projects.
+If you’re interested in working with me, 
+please reach out to me at elvis.es007@gmail.com.
 
 
